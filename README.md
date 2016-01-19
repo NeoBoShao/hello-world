@@ -1,2 +1,3 @@
 # hello-world
-the first test repository
+My first test repository on GitHub.
+I love :coffee: :pizza:,and :dancer:.
