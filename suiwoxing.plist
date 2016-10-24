@@ -13,33 +13,17 @@
 					<key>url</key>
 					<string>http://121.40.41.21:8080/liantong/ios.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://121.40.41.21:8080/liantong/57x57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://121.40.41.21:8080/liantong/114x114.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.henanunicom.mserverltoa</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.4.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ay</string>
+				<string>河南联通for随沃行20161022_2</string>
 			</dict>
 		</dict>
 	</array>
